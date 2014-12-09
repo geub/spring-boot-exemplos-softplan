@@ -1,0 +1,16 @@
+.idea
+*.iml
+build
+.gradle
+.classpath
+.settings
+.project
+target
+bin
+node_modules
+bower_components
+dist
+*~
+*.sw
+rebel.xml
+vagrant/.vagrant
